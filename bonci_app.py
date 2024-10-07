@@ -4,7 +4,6 @@ from pyhtml2pdf import converter
 import base64
 from PIL import Image
 import numpy as np
-import pdfkit
 from streamlit import session_state as ss
 from streamlit_pdf_viewer import pdf_viewer
 from pathlib import Path
