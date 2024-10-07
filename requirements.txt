@@ -1,0 +1,4 @@
+streamlit
+streamlit-keyup
+streamlit_pdf_viewer
+pyhtml2pdf
